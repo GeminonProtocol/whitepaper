@@ -3,6 +3,7 @@
 *.tmp
 *.txt
 *.jpg
+images/
 tablas/
 templates/
 
